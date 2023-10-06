@@ -1,5 +1,3 @@
-# make a graph with your voice
-
 ## this is an extremely cool demo:
 
 <div align="left">
@@ -12,4 +10,4 @@
 
 speech recognition is FAST and llms are SMART. there is something extremely cool here.
 
-want to fund me? lepetitg+invest@gmail.com
+want to fund me? [lepetitg+invest@gmail.com](mailto:lepetitg+invest@gmail.com)
