@@ -6,6 +6,8 @@
       </a>
 </div>
 
+[https://www.youtube.com/watch?v=fxS7OKh_4vc](https://www.youtube.com/watch?v=fxS7OKh_4vc)
+
 ## what
 
 speech recognition is FAST and llms are SMART. there is something extremely cool here.
