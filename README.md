@@ -1,4 +1,4 @@
-## this is an extremely cool demo:
+## this is an extremely cool demo (click to go to youtube):
 
 <div align="left">
       <a href="https://www.youtube.com/watch?v=fxS7OKh_4vc">
