@@ -12,7 +12,7 @@
 
 speech recognition is FAST and llms are SMART. there is something extremely cool here.
 
-want to fund me? [lepetitg+invest@gmail.com](mailto:lepetitg+invest@gmail.com)
+let's make it happen -> [lepetitg+invest@gmail.com](mailto:lepetitg+invest@gmail.com)
 
 ### huh
 
