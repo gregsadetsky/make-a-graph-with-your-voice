@@ -1,12 +1,6 @@
-## this is an extremely cool demo (click to go to youtube):
+## this is an extremely cool demo:
 
-<div align="left">
-      <a href="https://www.youtube.com/watch?v=fxS7OKh_4vc">
-         <img src="https://img.youtube.com/vi/fxS7OKh_4vc/0.jpg" style="width:100%;">
-      </a>
-</div>
-
-[https://www.youtube.com/watch?v=fxS7OKh_4vc](https://www.youtube.com/watch?v=fxS7OKh_4vc)
+<iframe width="560" height="515" src="https://www.youtube.com/embed/fxS7OKh_4vc?si=rMvVklqiE9226mY6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## what
 
