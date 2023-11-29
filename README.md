@@ -1,6 +1,6 @@
 ## this is an extremely cool demo:
 
-<iframe width="560" height="515" src="https://www.youtube.com/embed/fxS7OKh_4vc?si=rMvVklqiE9226mY6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="515" src="https://www.youtube.com/embed/fxS7OKh_4vc?si=rMvVklqiE9226mY6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## what
 
